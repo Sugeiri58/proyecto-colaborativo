@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perfil de Karla Estela</title>
+</head>
+<body>
+  <h1>Karla Estela Gracia Lopez</h1>
+
+  <img src="karla.jpg" alt="Foto de Karla" width="150">
+
+  <h2>Sobre mí</h2>
+  <p>Estudiante de la Universidad Tecnológica de Tehuacán. Me gusta aprender cosas nuevas, trabajar en equipo y desarrollar mis habilidades en tecnología.</p>
+
+</body>
+</html>
